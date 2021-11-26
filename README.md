@@ -41,8 +41,3 @@ I'm a Tech fanatic, skilled in C, C++, DSA, HTML, CSS, JAVASCRIPT, BOOTSTRAP, Mo
  <br>
 
 </div>
- 
- <p align="center"> 
- <b> You are visitor :</b><br>
-  <img src="https://profile-counter.glitch.me/kunal/count.svg" />
-</p>
