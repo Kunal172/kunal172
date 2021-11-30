@@ -6,7 +6,7 @@
 
 - :student: &nbsp;I'm a Third Year Student, Studying ECE at BVCOE New Delhi.
 - :computer: &nbsp; I’m currently working on a MERN app.
-- ✍️ &nbsp; As a developer, I am always ready to learn to grow professionally.
+- :writing_hand: &nbsp; As a developer, I am always ready to learn to grow professionally.
 </div>
 
 <h1 align="center">Tech-Stack</h1>
@@ -35,5 +35,5 @@ I'm a Tech fanatic, skilled in C, C++, DSA, HTML, CSS, JAVASCRIPT, BOOTSTRAP, Mo
 <a href="mailto:kunalaggarwal172@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://github.com/Kunal172/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
  <br>
-
+  
 </div>
