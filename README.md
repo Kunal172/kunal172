@@ -28,7 +28,7 @@
 </p>
 
 <h1 align="center">Let's Get Connected</h1>
-<p>I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me :</p>
+<p>I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me:</p>
 
 <div align="center">
 
