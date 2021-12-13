@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Kunal Aggarwal</h1>
 
-<h3 align="center">⚡ Web developer | Undegrad Student⚡</h3>
+<h3 align="center">⚡ Web Developer | Undegrad Student⚡</h3>
 
 <div align="left"> 
   <h3> :man_technologist: About Me </h3>
