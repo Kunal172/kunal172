@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> :man_technologist: About Me </h3>
 
-- :student: &nbsp;I'm a Third Year Student, Studying ECE at BVCOE New Delhi.
+- :student: &nbsp;I'm a Fourth Year Student, Studying ECE at BVCOE New Delhi.
 - :computer: &nbsp; I’m currently working on a MERN app.
 - :writing_hand: &nbsp; As a developer, I am always ready to learn to grow professionally.
 </div>
